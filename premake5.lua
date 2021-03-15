@@ -12,6 +12,6 @@ project( "meshoptimizer" )
     runtime "Release"
 	optimize "On"
 
-  filter "configurations:Production"
+  filter "configurations:Dist"
     runtime "Release"
     optimize "On"
